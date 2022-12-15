@@ -6,6 +6,6 @@ public class Git1 {
 
 	@Test
 	public void sampleTest() {
-	System.out.println("Hi this is very confusing");
+	System.out.println("Hi this is very ");
 	}
 }
