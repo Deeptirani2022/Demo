@@ -10,5 +10,10 @@ public class CreateOrgTest {
 		System.out.println("Tc_215");
 	}
 	
+	@Test
+	public void tc_215_CreateOrgWithIndustryTest()
+	{
+		System.out.println("Tc_216");
+	}
 	
 }
